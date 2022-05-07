@@ -19,3 +19,12 @@ body{
     background-position: center;
     background-size: cover;
 }
+
+footer a:hover{
+
+    color:rgb(13, 13, 81)
+}
+
+#work{
+    background-color: rgba(80, 172, 248, 0.95);
+}
